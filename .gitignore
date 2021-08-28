@@ -9,6 +9,10 @@
 .history
 .svn/
 
+# UNUSED BUILDS
+linux/
+macos/
+
 # IntelliJ related
 *.iml
 *.ipr
